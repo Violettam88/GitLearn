@@ -1,0 +1,15 @@
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.csproj.AssemblyReference.cache
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.GeneratedMSBuildEditorConfig.editorconfig
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.AssemblyInfoInputs.cache
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.AssemblyInfo.cs
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.csproj.CoreCompileInputs.cache
+P:\github\GitLearn\bin\Debug\net7.0\GitLearn.exe
+P:\github\GitLearn\bin\Debug\net7.0\GitLearn.deps.json
+P:\github\GitLearn\bin\Debug\net7.0\GitLearn.runtimeconfig.json
+P:\github\GitLearn\bin\Debug\net7.0\GitLearn.dll
+P:\github\GitLearn\bin\Debug\net7.0\GitLearn.pdb
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.dll
+P:\github\GitLearn\obj\Debug\net7.0\refint\GitLearn.dll
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.pdb
+P:\github\GitLearn\obj\Debug\net7.0\GitLearn.genruntimeconfig.cache
+P:\github\GitLearn\obj\Debug\net7.0\ref\GitLearn.dll
